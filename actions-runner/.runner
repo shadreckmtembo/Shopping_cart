@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Build",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/DUL77TsLuKmrTIJPsLiGZ3EouAJzdBSgs8ACI9rfbFm3mjagZf/",
+  "gitHubUrl": "https://github.com/shadreckmtembo/Shopping_cart",
+  "workFolder": "_work"
+}
